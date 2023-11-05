@@ -364,6 +364,9 @@ h3{
         flex-direction: column;
         align-items: center;
     }
+    .social-media{
+        margin-right: 25px;
+    }
     .contact{
         margin-bottom: 30px;
     }
