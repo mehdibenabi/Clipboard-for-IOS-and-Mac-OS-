@@ -7,7 +7,7 @@ font-family: 'Barlow Semi Condensed', sans-serif;*/
     box-sizing: border-box;
 }
 body{
-    background-image: url("/images/bg-header-desktop.png");
+    background-image: url("https://i.postimg.cc/qvkHrLM1/bg-header-desktop.png");
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -263,7 +263,7 @@ h3{
 
 @media screen and (min-width : 375px ) and (max-width : 820px) {
     body{
-        background-image: url("/images/bg-header-mobile.png");
+        background-image: url("https://i.postimg.cc/tgMKhGdc/bg-header-mobile.png");
     }
     .first-section {
         margin-top: 50px;
