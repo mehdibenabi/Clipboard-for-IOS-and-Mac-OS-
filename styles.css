@@ -237,7 +237,7 @@ margin-left: 150px;
     background-color: hsla(0, 0%, 91%, .4);
     margin-top: 100px
 }
-.logo-2 {
+.logo-div-2 svg{
     height: 100%;
     width: 100%;
     max-height: 50px;
